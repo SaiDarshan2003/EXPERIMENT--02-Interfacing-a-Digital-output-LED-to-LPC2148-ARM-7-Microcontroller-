@@ -142,9 +142,9 @@ int main()
 }
 ```
 ## Output screen shots :
- ![inp](11.png)
- ![inp](12.png)
- ![inp](13.png)
+ ![inp](111.png)
+ ![inp](112.png)
+ ![inp](113.png)
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
